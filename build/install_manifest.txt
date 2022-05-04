@@ -1,0 +1,8 @@
+/home/hubery-lee/SpectrumCov/bin/Exposure_gamma_ConversionCoefficients.txt
+/home/hubery-lee/SpectrumCov/bin/H*(10)_gamma_ConversionCoefficients.txt
+/home/hubery-lee/SpectrumCov/bin/H*(10)_neutron_ConversionCoefficients.txt
+/home/hubery-lee/SpectrumCov/bin/Hp(10)_gamma_ConversionCoefficients.txt
+/home/hubery-lee/SpectrumCov/bin/Hp(10)_neutron_ConversionCoefficients.txt
+/home/hubery-lee/SpectrumCov/bin/demo_neutronShieldTest.root
+/home/hubery-lee/SpectrumCov/bin/winapp.ico
+/home/hubery-lee/SpectrumCov/bin/SpectrumCov

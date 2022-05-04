@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "/home/hubery-lee/SpectrumCov/build/src/SpectrumCov_autogen",
+	"CMAKE_BINARY_DIR" : "/home/hubery-lee/SpectrumCov/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/hubery-lee/SpectrumCov/build/src",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/hubery-lee/SpectrumCov/src",
+	"CMAKE_SOURCE_DIR" : "/home/hubery-lee/SpectrumCov",
+	"INCLUDE_DIR" : "/home/hubery-lee/SpectrumCov/build/src/SpectrumCov_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/hubery-lee/SpectrumCov/src/images/scanCode.png",
+		"/home/hubery-lee/SpectrumCov/src/images/logo.png",
+		"/home/hubery-lee/SpectrumCov/src/images/logo-1.png",
+		"/home/hubery-lee/SpectrumCov/src/images/images.qrc"
+	],
+	"LOCK_FILE" : "/home/hubery-lee/SpectrumCov/build/src/CMakeFiles/SpectrumCov_autogen.dir/AutoRcc_images_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "images" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_images.cpp",
+	"RCC_EXECUTABLE" : "/opt/Qt/5.15.2/gcc_64/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/hubery-lee/SpectrumCov/build/src/CMakeFiles/SpectrumCov_autogen.dir/AutoRcc_images_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/hubery-lee/SpectrumCov/src/images.qrc",
+	"VERBOSITY" : 0
+}

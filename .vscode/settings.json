@@ -1,0 +1,7 @@
+{
+    "ros.distro": "noetic",
+    "files.associations": {
+        "ExposureCal.C": "cpp",
+        "iostream": "cpp"
+    }
+}
